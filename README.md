@@ -3,9 +3,9 @@
 #### Technical Skills: Python, PyTorch, Pandas/Numpy, Matplotlib/Seaborn, Sklearn
 
 ## Education
-- BSc in CSE | Daffodil International University (_June 2022_ - _June 2024_ )								       		
-- HSC Science	| Mohammadpur Preparetory School & College (_December 2021_)	 			        		
-- SSC Science | B.C.S.I.R High School (_December 2019_)
+- BSc in CSE | Daffodil International University (_June 2022_)								       		
+- HSC | MPSC (_December 2021_)	 			        		
+- SSC | B.C.S.I.R High School (_December 2019_)
 
 ## Work Experience
 **Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
